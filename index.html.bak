@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Подготовка к ЕНТ</title>
+  <link rel="shortcut icon" type="image/png" href="img/logo.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="style.css" rel="stylesheet" />
+</head>
+
+<body>
+
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="
+			collapse" data-target="#navbar-collapse-main">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href ="#"><img src="img/logo.png">
+			</a>
+		</div>
+		<div class="collapse navbar-collapse" id="navbar-collapse-main">
+			<ul class="nav navbar-nav navbar-right">
+				<li><a class="active" href="#home">Главная страница</a></li>
+				<li><a href="#about">О нас</a></li>
+				<li><a href="#services">Сервисы</a></li>
+				<li><a href="#rec">Рекомендации</a></li>
+				<li><a href="#contacts">Контакты</a></li>
+			</ul>
+		</div>
+	</div>
+</nav> 
+
+<div id="home">
+	<div class="landing-text">
+		<h1>ЕНТ 140</h1>
+		<h3>Полугодовой курс по подготовке к ЕНТ</h3>
+		<a href="#" class="btn btn-default btn-lg">Зарегестрироваться</a>
+	</div> 
+</div>
+
+<div class="padding">
+<div class="container">
+	<div class="row">
+		<div class="col-sm-6">
+			<img src="img/teacher.png">
+		</div>
+		<div id="about">
+		<div class ="coll-sm-6 text-center">
+			<h2>О нас</h2>
+			<p class="lead">Группа независимых студентов, набравших более 
+			135 баллов по ЕНТ, готовые помочь вам в подготовке к грядущему экзамену.
+			В нашей команде есть студенты каждого направления, поэтому ученики с 
+			разными профессиональными интересами могут регестрироваться на курс.</p>
+			<p class="lead">Обучение проходит в формате онлайн, с помощью платформы Microsoft Teams</p>
+		</div>
+		</div>
+	</div>	
+</div>
+</div>
+
+<div id="services">
+<div class="padding">
+<div class="container">
+		<div class="row"
+			<div class="col-sm-6 text-center">
+				<h4>Занимайтесь с нами</h4>
+				<p>Между преподавателями и студентами нет большой возрастной разницы,<br>
+				что позитивно влияет на скорость усваивания материала, так как<br> материал
+				доносится на том же разговорном языке, что и у студентов</p>
+			</div>
+			<div class="col-sm-6 text-center">
+				<img src="img/Student.jpg" class="img-responsive">
+			</div>
+			<div class="col-sm-6 text-center">
+				<h4>80% Студентов закончивших курс поступили на государственный грант в вузы РК</h4>
+				<p>В них входят КБТУ,AITU,МУИТ,UIB,ЕНУ и другие</p>
+			</div>
+			<div class="col-sm-6 text-center">
+				<img src="img/University.png" class="img-responsive">
+			</div>
+		</div>
+</div>
+</div>
+</div>
+
+
+<div id="fixed">
+</div>
+
+<div id="rec">	
+<div class="padding">
+<div class="container">
+	<div class="row">
+		<div class ="coll-sm-6">
+			<h4>Рекомендации</h4>
+			<p>Рекомендуем приступить к изучению курса уже сейчас,
+			так как это абсолютно бесплатно. Но помните при 3 пропусках подряд
+			вы потеряете доступ к курсу, так как мы действительно гарантируем результат
+			при должном отношении к подготовке. Помните что начинать учить все в последний 
+			момент не является подготовкой.</p>
+			<p>Мы рекомендуем приступить к подготовке с изучения и повторения базы, ваших профильных
+			предметов. Приступить к курсу можно уже с 10го класса. Таким образом уделяя всего пару часов в неделю
+			вы можете достичь высоких результатов. Ждем вас в списке наших студентов.</p>
+		</div>
+		<div class="col-sm-6">
+			<img src="img/Student_2.jpg">
+		</div>
+	</div>	
+</div>
+</div>
+</div>	
+
+<footer class="container-fluid text-center">
+<div id ="contacts">
+	<div class="row">
+		<div class="col-sm-4">
+			<h3>Наши контакты</h3>
+			<br>
+			<h4>+77712345678<br>+77271234567</h4>
+		</div>
+		<div class="col-sm-4">
+			<h3>Наши социальные сети</h3>
+			<a href="https://clck.ru/amY6E" class="fa fa-google"></a>
+			<a href="https://www.instagram.com/astana_it_university/" class="fa fa-instagram"></a>
+			<a href="https://www.youtube.com/c/AstanaITUniversity" class="fa fa-youtube"></a>
+		</div>
+		<div class="col-sm-4">
+			<img src="img/emptySpaceFiller.png" class="icon">
+		</div>		
+	</div>
+</div>
+</footer>
+	
+</body>
+</html>
